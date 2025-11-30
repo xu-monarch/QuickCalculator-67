@@ -1,5 +1,6 @@
 # QuickCalculator-67
 A simple and fast web calculator built with HTML, CSS, and JavaScript.
+add UI framework info to README
 
 ## 功能特点
 - 基本的四则运算（加、减、乘、除）
@@ -15,7 +16,8 @@ A simple and fast web calculator built with HTML, CSS, and JavaScript.
 ## 技术栈
 - **前端**: HTML5, CSS3, JavaScript (ES6)
 - **版本控制**: Git & GitHub
-
+- **UI框架**: 无，使用纯CSS实现
+  
 ## 项目结构
 QuickCalculator-67/
 ├── index.html # 主页面
